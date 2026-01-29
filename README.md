@@ -13,4 +13,6 @@ This assignment helped me understand how to make changes and track commits to br
 - Cherry-pick a hotfix onto main branch
 - Merge all changes to the dev branch
 
+Document has been reviewed and updated.
+
 
